@@ -1,0 +1,503 @@
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\QLNHANSU.exe.config
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\QLNHANSU.exe
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\QLNHANSU.pdb
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Data.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraBars.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraBars.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.AssemblyReference.cache
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmMain.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.Properties.Resources.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.GenerateResource.cache
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.exe.licenses
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.CoreCompileInputs.cache
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.CopyComplete
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.exe
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.pdb
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Office.v20.1.Core.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Office.v20.1.Core.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmDanToc.resources
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\BusinessLayer.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DataLayer.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\EntityFramework.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\EntityFramework.SqlServer.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\BusinessLayer.pdb
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\BusinessLayer.dll.config
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DataLayer.pdb
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DataLayer.dll.config
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\EntityFramework.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\EntityFramework.SqlServer.xml
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmTonGiao.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmTrinhDo.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmPhongBan.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmCongTy.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmBoPhan.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmChucVu.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmNhanVien.resources
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraReports.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.DataAccess.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Xpo.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.CodeParser.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Images.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraReports.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.DataAccess.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Xpo.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptDanhSachNhanVien.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmHopDongLaoDong.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptHopDongLaoDong.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmKhenThuong.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmKyLuat.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmNhanVien_DieuChuyen.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmDieuChuyen.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmNhanVien_ThoiViec.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.ChamCong.frmLoaiCa.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmLC.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmLoaiCong.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmNangLuong.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmBangCong.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmBangCongChiTiet.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmWaiting.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmCapNhatNgayCong.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmPhuCap.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThongTinNhanVien.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmQuocTich_TonGiao.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmQueQuan.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmDienThoai_LienLac.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThuongTru.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmTamTru.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmQuaTrinhDaoTao.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmNhapThongTinTrinhDo.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmNgoaiNgu.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmViTinh.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmchinhtri.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThongTinDoanDang.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmDiNuocNgoai.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmDaoTaoQuaTrinh.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmQuaTrinhDaoTaoCu.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmQuaTrinhDaoTaoMoi.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThongTinKhenThuong.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThongTinKyLuat.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmHoSoTuyenDung.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmHoSoLienQuan.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThongTinGiaDinh.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmTTQuaTrinhLamViecNT.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmLichSuBanThanNhanVien.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThongTinHopDongLaoDong.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmCongTac.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmCongTacTrongCongTy.resources
+E:\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmCongTacNgoaiCongTy.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\QLNHANSU.exe.config
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\QLNHANSU.exe
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\QLNHANSU.pdb
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\BusinessLayer.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DataLayer.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Data.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Images.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\EntityFramework.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\BusinessLayer.pdb
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\BusinessLayer.dll.config
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DataLayer.pdb
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DataLayer.dll.config
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\EntityFramework.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.AssemblyReference.cache
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.ChamCong.frmLoaiCa.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmBangCong.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmBangCongChiTiet.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmBoPhan.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmCapNhatNgayCong.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmchinhtri.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmChucVu.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmCongTac.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmCongTacNgoaiCongTy.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmCongTacTrongCongTy.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmCongTy.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmDangNhap.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmDanToc.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmDaoTaoQuaTrinh.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmDienThoai_LienLac.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmDieuChuyen.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmDiNuocNgoai.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmHopDongLaoDong.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmHoSoLienQuan.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmHoSoTuyenDung.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmKhenThuong.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmKyLuat.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmLC.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmLichSuBanThanNhanVien.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmLoaiCong.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmMain.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmNangLuong.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmNgoaiNgu.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmNhanVien.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmNhanVien_DieuChuyen.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmNhanVien_ThoiViec.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmNhapThongTinTrinhDo.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmPhongBan.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmPhuCap.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmQuaTrinhDaoTao.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmQuaTrinhDaoTaoCu.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmQuaTrinhDaoTaoMoi.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmQueQuan.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmQuocTich_TonGiao.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmTamTru.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThongTinDoanDang.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThongTinGiaDinh.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThongTinHopDongLaoDong.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThongTinKhenThuong.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThongTinKyLuat.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThongTinNhanVien.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmThuongTru.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmTonGiao.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmTrinhDo.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmTTQuaTrinhLamViecNT.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmViTinh.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.frmWaiting.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.Properties.Resources.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptDanhSachNhanVien.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptHopDongLaoDong.resources
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.GenerateResource.cache
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.exe.licenses
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.CoreCompileInputs.cache
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.csproj.CopyComplete
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.exe
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.pdb
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\Guna.UI2.dll
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Dự án 1\QUANLYNHANSU\QLNHANSU\obj\Debug\QLNHANSU.Reports.rptSoYeuLyLich.resources

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9c6660c688524208aa8984a2a5956b4a" Name="Diagram1" ZoomLevel="67">
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_BangCong" Width="1.5" PointX="8.25" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_BaoHiem" Width="1.5" PointX="5.25" PointY="11.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_BoPhan" Width="1.5" PointX="0.75" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_ChucVu" Width="1.5" PointX="0.75" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_DanToc" Width="1.5" PointX="0.75" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_LoaiCa" Width="1.5" PointX="7.25" PointY="21.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_LoaiCong" Width="1.5" PointX="5.625" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_NhanVien" Width="1.5" PointX="3" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_NhanVien_PhuCap" Width="1.5" PointX="8.25" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_PhongBan" Width="1.5" PointX="0.75" PointY="15.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_PhuCap" Width="1.5" PointX="6" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_TangCa" Width="1.5" PointX="8.25" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_TonGiao" Width="1.5" PointX="0.75" PointY="18.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_TrinhDo" Width="1.5" PointX="0.75" PointY="20.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_UngLuong" Width="1.5" PointX="4.375" PointY="25.875" IsExpanded="true" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_BangCo__IDLoa__5FB337D6" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_BangCon__MaNV__5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_BaoHiem__MaNV__571DF1D5" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_NhanVie__IDBP__52593CB8" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_NhanVie__IDCV__534D60F1" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_NhanVi__IDDan__04E4BC85" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_TangCa__IDLoa__6E01572D" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_NhanVi__IDTon__07C12930" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_NhanVie__IDPB__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_NhanVie__IDTD__5441852A" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_NhanVie__MaNV__72C60C4A" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_TangCa__MaNV__6D0D32F4" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_UngLuon__MaNV__76969D2E" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_NhanVi__IDPhu__73BA3083" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_CongTy" Width="1.5" PointX="0.75" PointY="4.875" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_NhanVi__IDCon__160F4887" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_HopDong" Width="1.5" PointX="8.25" PointY="2.75" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_HopDon__IDCon__2EDAF651" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_HopDong__MaNV__2DE6D218" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_KhenThuong_KyLuat" Width="1.5" PointX="5.125" PointY="20.375" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_KhenThu__MaNV__4D5F7D71" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_DieuChuyen" Width="1.5" PointX="5.25" PointY="15.125" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_DieuChu__MaNV__756D6ECB" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_ThoiViec" Width="1.5" PointX="5.25" PointY="1.375" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_ThoiVie__MaNV__7849DB76" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_NangLuong" Width="1.5" PointX="10.5" PointY="3.375" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_NangLuo__SoHD__0880433F" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_NangLuo__MaNV__09746778" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_KYCONGCHITIET" Width="1.5" PointX="11.25" PointY="8.375" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_KYCONG__IDCon__1C873BEC" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_KYCONGC__MaNV__1B9317B3" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_KyCong" Width="1.5" PointX="3" PointY="4.375" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_KyCong__IDCon__382F5661" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_BANGCONG_NHANVIEN_CHITIET" Width="2.625" PointX="12.375" PointY="0.625" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_BANGCO__IDCon__4865BE2A" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_BoDoi" Width="1.5" PointX="5.25" PointY="38.875" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_Dang_Doan" Width="1.5" PointX="5.25" PointY="49.25" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_DienThoaiLienHe" Width="1.5" PointX="5.25" PointY="63" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_NVDiNuocNgoai" Width="1.5" PointX="5.25" PointY="45.875" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_QueQuan" Width="1.5" PointX="5.25" PointY="70" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_QuocTich" Width="1.5" PointX="5.25" PointY="72.875" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_TamTru" Width="1.5" PointX="5.25" PointY="36" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_ThongTinChinhTri" Width="1.5" PointX="5.25" PointY="76.125" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_ThongTinNgoaiNgu" Width="1.5" PointX="5.25" PointY="42.25" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_ThongTinNhanVien" Width="2.25" PointX="5.25" PointY="58.125" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_ThongTinTrinhDo" Width="1.5" PointX="5.25" PointY="53.125" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_ThongTinViTinh" Width="1.5" PointX="5.25" PointY="65.875" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_ThuongTru" Width="1.5" PointX="5.25" PointY="30.125" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_BoDoi__MaNV__7720AD13" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_Dang_Do__MaNV__7167D3BD" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_DienTho__MaNV__5D60DB10" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_NVDiNuo__MaNV__7CD98669" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_QueQuan__MaNV__5A846E65" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_QuocTic__MaNV__57A801BA" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_TamTru__MaNV__6319B466" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_ThongTi__MaNV__54CB950F" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_ThongTi__MaNV__65F62111" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_ThongTi__MaNV__68D28DBC" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_ThongTi__MaNV__6BAEFA67" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_ThongTi__MaNV__6E8B6712" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_ThuongT__MaNV__603D47BB" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_NguoiGTVaoDang" Width="1.5" PointX="5.25" PointY="84.5" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_NguoiGT__MaNV__0E04126B" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_QuaTrinhDaoTaoCu" Width="1.5" PointX="5.25" PointY="94.375" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_QuaTrinhDaoTaoMoi" Width="2.25" PointX="5.25" PointY="88.75" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_QuaTrin__MaNV__2116E6DF" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_QuaTrin__MaNV__23F3538A" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_ChiTietKhenThuong" Width="2.125" PointX="5.25" PointY="100.25" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_ChiTietKyLuat" Width="2.125" PointX="5.25" PointY="104.5" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_ChiTiet__MaNV__3429BB53" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_ChiTiet__MaNV__370627FE" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_ChiTietHoSoLienQuan" Width="1.5" PointX="5.25" PointY="80" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_HoSoTuyenDung" Width="2" PointX="5.25" PointY="109.75" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_ChiTiet__MaNV__4A18FC72" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_HoSoTuy__MaNV__473C8FC7" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_ThongTinGiaDinh" Width="2" PointX="5.25" PointY="112.875" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_ThongTi__MaNV__5A4F643B" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_QuaTrinhLamViecCuaThanNhan" Width="1.5" PointX="8" PointY="113" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_QuaTri__IdTho__5D2BD0E6" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_LichSuBanThanNhanVien" Width="1.5" PointX="5.25" PointY="117.375" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_LichSuB__MaNV__6D6238AF" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_ThongTinHopDongLaoDong" Width="1.5" PointX="5.25" PointY="121.5" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_ThongTi__MaNV__00750D23" />
+        <EntityTypeShape EntityType="QuanLyNhanSuModel.tb_QuaTrinhCongTac" Width="1.5" PointX="5.25" PointY="127.375" />
+        <AssociationConnector Association="QuanLyNhanSuModel.FK__tb_QuaTrin__MaNV__1387E197" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

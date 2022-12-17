@@ -1,0 +1,30 @@
+E:\QUANLYNHANSU\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+E:\QUANLYNHANSU\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\QUANLYNHANSU\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\QUANLYNHANSU\BusinessLayer\bin\Debug\DataLayer.dll
+E:\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.dll
+E:\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\QUANLYNHANSU\BusinessLayer\bin\Debug\DataLayer.pdb
+E:\QUANLYNHANSU\BusinessLayer\bin\Debug\DataLayer.dll.config
+E:\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.xml
+E:\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\bin\Debug\DataLayer.dll.config
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Dự án 1\QUANLYNHANSU\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B6AAB6A7-B9F7-4298-B812-C535A7913EBB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataLayer</RootNamespace>
+    <AssemblyName>DataLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLNHANSU.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLNHANSU.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="QLNHANSU.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="QLNHANSU.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLNHANSU.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="tb_BangCong.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_BANGCONG_NHANVIEN_CHITIET.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_BaoHiem.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_BoDoi.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_BoPhan.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_ChiTietHoSoLienQuan.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_ChiTietKhenThuong.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_ChiTietKyLuat.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_ChucVu.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_CongTy.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_Dang_Doan.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_DanToc.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_DienThoaiLienHe.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_DieuChuyen.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_HopDong.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_HoSoTuyenDung.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_KhenThuong_KyLuat.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_KyCong.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_KYCONGCHITIET.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_LichSuBanThanNhanVien.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_LoaiCa.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_LoaiCong.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_NangLuong.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_NguoiGTVaoDang.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_NhanVien.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_NhanVien_PhuCap.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_NVDiNuocNgoai.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_PhongBan.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_PhuCap.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_QuaTrinhCongTac.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_QuaTrinhDaoTaoCu.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_QuaTrinhDaoTaoMoi.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_QuaTrinhLamViecCuaThanNhan.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_QueQuan.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_QuocTich.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_TamTru.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_TangCa.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_ThoiViec.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_ThongTinChinhTri.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_ThongTinGiaDinh.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_ThongTinHopDongLaoDong.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_ThongTinNgoaiNgu.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_ThongTinNhanVien.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_ThongTinTrinhDo.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_ThongTinViTinh.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_ThuongTru.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_TonGiao.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_TrinhDo.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+    <Compile Include="tb_UngLuong.cs">
+      <DependentUpon>QLNHANSU.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EntityDeploy Include="QLNHANSU.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>QLNHANSU.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config" />
+    <None Include="packages.config" />
+    <None Include="QLNHANSU.edmx.diagram">
+      <DependentUpon>QLNHANSU.edmx</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="QLNHANSU.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>QLNHANSU.Context.cs</LastGenOutput>
+      <DependentUpon>QLNHANSU.edmx</DependentUpon>
+    </Content>
+    <Content Include="QLNHANSU.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>QLNHANSU.edmx</DependentUpon>
+      <LastGenOutput>QLNHANSU.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,12 @@
+E:\QUANLYNHANSU\DataLayer\bin\Debug\DataLayer.dll
+E:\QUANLYNHANSU\DataLayer\bin\Debug\DataLayer.pdb
+E:\QUANLYNHANSU\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+E:\QUANLYNHANSU\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\QUANLYNHANSU\DataLayer\obj\Debug\DataLayer.dll
+E:\QUANLYNHANSU\DataLayer\obj\Debug\DataLayer.pdb
+E:\QUANLYNHANSU\DataLayer\bin\Debug\DataLayer.dll.config
+E:\QUANLYNHANSU\DataLayer\bin\Debug\EntityFramework.dll
+E:\QUANLYNHANSU\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\QUANLYNHANSU\DataLayer\bin\Debug\EntityFramework.xml
+E:\QUANLYNHANSU\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\QUANLYNHANSU\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete

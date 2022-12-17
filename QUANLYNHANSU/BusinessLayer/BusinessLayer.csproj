@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{07D39BBB-A354-4F15-8711-D570A38057F7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BusinessLayer</RootNamespace>
+    <AssemblyName>BusinessLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BangCong_NV_CT_BUS.cs" />
+    <Compile Include="BoPhan_BUS.cs" />
+    <Compile Include="ChinhTri_BUS.cs" />
+    <Compile Include="ChiTietKhenThuong_BUS.cs" />
+    <Compile Include="ChiTietKyLuat_BUS.cs" />
+    <Compile Include="ChucVu_BUS.cs" />
+    <Compile Include="CongTacTrongCongTy_BUS.cs" />
+    <Compile Include="CongTy_BUS.cs" />
+    <Compile Include="DAL\DangNhap_DAL.cs" />
+    <Compile Include="DAL\DBConnect.cs" />
+    <Compile Include="DangNhap_BUS.cs" />
+    <Compile Include="DanToc_BUS.cs" />
+    <Compile Include="DienThoaiDiDong_BUS.cs" />
+    <Compile Include="DieuChuyen_BUS.cs" />
+    <Compile Include="DiNuocNgoai_BUS.cs" />
+    <Compile Include="DTO\HopDong_DTO.cs" />
+    <Compile Include="DTO\KhenThuong_KyLuat_DTO.cs" />
+    <Compile Include="DTO\NhanVien_DieuChuyen_DTO.cs" />
+    <Compile Include="DTO\NhanVien_DTO.cs" />
+    <Compile Include="DTO\NhanVien_NangLuong_DTO.cs" />
+    <Compile Include="DTO\NhanVien_ThoiViec_DTO.cs" />
+    <Compile Include="DTO\PhuCap_NhanVien_DTO.cs" />
+    <Compile Include="DTO\TaiKhoan_DTO.cs" />
+    <Compile Include="Function_BUS.cs" />
+    <Compile Include="HopDongLaoDong_BUS.cs" />
+    <Compile Include="HoSoLienQuan_BUS.cs" />
+    <Compile Include="HoSoTuyenDung_BUS.cs" />
+    <Compile Include="InSoYeuLyLich_BUS.cs" />
+    <Compile Include="KhenThuong_KyLuat_BUS.cs" />
+    <Compile Include="KyCongChiTiet_BUS.cs" />
+    <Compile Include="KyCong_BUS.cs" />
+    <Compile Include="LichSuNhanVien_BUS.cs" />
+    <Compile Include="LoaiCa_BUS.cs" />
+    <Compile Include="LoaiCong_BUS.cs" />
+    <Compile Include="NgoaiNgu_BUS.cs" />
+    <Compile Include="NhanVien_BUS.cs" />
+    <Compile Include="NhanVien_DieuChuyen_BUS.cs" />
+    <Compile Include="NhanVien_NangLuong_BUS.cs" />
+    <Compile Include="PhongBan_BUS.cs" />
+    <Compile Include="PhuCap_BUS.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuaTrinhDaoTaoCu_BUS.cs" />
+    <Compile Include="QuaTrinhDaoTaoMoi_BUS.cs" />
+    <Compile Include="QuaTrinhDaoTao_BUS.cs" />
+    <Compile Include="QuaTrinhLamViecThanNhan_BUS.cs" />
+    <Compile Include="QueQuan_BUS.cs" />
+    <Compile Include="TamTru_BUS.cs" />
+    <Compile Include="ThoiViec_BUS.cs" />
+    <Compile Include="ThongTinCoBan_BUS.cs" />
+    <Compile Include="ThongTinDoanDang_BUS.cs" />
+    <Compile Include="ThongTinGiaDinh_BUS.cs" />
+    <Compile Include="ThongTinHopDong_BUS.cs" />
+    <Compile Include="ThongTinQuocTich_BUS.cs" />
+    <Compile Include="ThuongTru_BUS.cs" />
+    <Compile Include="TonGiao_BUS.cs" />
+    <Compile Include="TrinhDo_BUS.cs" />
+    <Compile Include="ViTinh_BUS.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj">
+      <Project>{b6aab6a7-b9f7-4298-b812-c535a7913ebb}</Project>
+      <Name>DataLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
